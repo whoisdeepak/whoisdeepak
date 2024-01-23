@@ -16,8 +16,8 @@ I'm passionate about building cloud-native applications and I'm currently seekin
 
 <hr>
 <h3 align="left">My AWS Badges:</h3>
-- AWS Skill Badge in "Architecting": https://www.credly.com/badges/ea408a79-30c4-4357-b95f-89f83325de51 <br>
-- AWS Skill Badge in "Serverless": https://www.credly.com/badges/d0c13ea9-3c0d-4c08-92ef-ddc9db3733df
+- AWS Skill Badge in <a href="https://www.credly.com/badges/ea408a79-30c4-4357-b95f-89f83325de51">Architecting</a>  <br>
+- AWS Skill Badge in <a href="https://www.credly.com/earner/earned/badge/d0c13ea9-3c0d-4c08-92ef-ddc9db3733df">Serverless</a>
 
 <hr>
 <h3 align="left">My Skills:</h3>
