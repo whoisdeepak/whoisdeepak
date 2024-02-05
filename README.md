@@ -5,9 +5,9 @@ I'm passionate about building cloud-native applications and I'm currently seekin
 
 <h3 align="left">Overview:</h3>
 
-- 👨‍💻 You'll find a collection of all my projects at: [https://github.com/whoisdeepak?tab=repositories](https://github.com/whoisdeepak?tab=repositories)
+- 👨‍💻 You'll find a collection of all my projects <a href="https://github.com/whoisdeepak?tab=repositories">here</a>.
 
-- 📄 Check out my latest resume: [https://whoisdeepak.github.io/resume/Resume_Deepak_Kakarla.pdf](https://whoisdeepak.github.io/resume/Resume_Deepak_Kakarla.pdf)
+- 📄 Check out my latest resume <a href="https://whoisdeepak.github.io/resume/Resume_Deepak_Kakarla.pdf">here</a>.
 
 - 💬 Ask me about: **Java, Microservices, Distributed Systems**
 
